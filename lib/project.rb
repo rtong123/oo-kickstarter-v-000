@@ -10,6 +10,7 @@ end
 def add_backer(backer)
   @backers << backer
   backers = Backer.new(name)
+  @backers << backers
 
 end
 

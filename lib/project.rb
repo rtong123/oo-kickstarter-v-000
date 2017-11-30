@@ -9,8 +9,7 @@ end
 
 def add_backer(backer)
   @backers << backer
-  newback = Backer.new(name)
-  @backers << newback
+
 
 end
 

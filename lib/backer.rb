@@ -12,4 +12,3 @@ attr_accessor :name, :backed_projects
   @backed_projects << @backers
   end
 end
-

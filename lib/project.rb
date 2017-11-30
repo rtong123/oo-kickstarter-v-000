@@ -9,7 +9,6 @@ end
 
 def add_backer(backer)
   @backers << backer
-  backer = project
 end
 
 end
